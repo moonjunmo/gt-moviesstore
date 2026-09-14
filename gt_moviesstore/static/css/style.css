@@ -20,11 +20,11 @@
 }
 
 .bg-dark {
-  background-color: #2E2E2E !important;
+  background-color: #051E39 !important;
 }
 
 .ms-footer {
-  background-color: #202020;
+  background-color: #003D69;
 }
 
 .ms-footer p {
@@ -43,12 +43,12 @@
 }
 
 .ms-footer-bottom a {
-  color: #6ab43e;
+  color: #8F713D;
   text-decoration: none;
 }
 
 .ms-footer-bottom a:hover {
-  color: #fff;
+  color: #B39051;
 }
 
 .img-card-200 {
